@@ -1,0 +1,38 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+header ul{
+    display: flex;
+}
+header ul li{
+    list-style-type: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.nav-link {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ body {
+    font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+}
+h1{
+    font-size: 1.3em;
+}
+p{
+    font-size: 1em;
+}
+.premiere-section form i, .premiere-section form input, .premiere-section form button{
+    height: 35px;
+}
+.premiere-section form i{
+    display: flex;
+    height: 35px;
+    width: 35px;
+    background-color: #f2f2f2;
+    border-radius: 30px 0px 0px 30px;
+}
